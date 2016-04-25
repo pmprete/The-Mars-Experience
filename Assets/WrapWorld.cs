@@ -3,41 +3,30 @@
 public class WrapWorld : MonoBehaviour {
     
 	void OnTriggerExit (Collider player) {
-	    var position = player.transform.position;
-        var boxCollider = (BoxCollider)this.gameObject.GetComponent(typeof(BoxCollider));
-        var boxCollaiderSize = boxCollider.size;
-        var terrainPosition = Terrain.activeTerrain.transform.position;
+	    var postion = player.transform.position;
         Debug.Log("Player entered the trigger");
-        Debug.Log("Position x :" + position.x);
-        Debug.Log("Position y :" + position.y);
-        Debug.Log("Position z :" + position.z);
-        Debug.Log("terrain position");
-        Debug.Log("Position x :" + terrainPosition.x);
-        Debug.Log("Position y :" + terrainPosition.y);
-        Debug.Log("Position z :" + terrainPosition.z);
-        Debug.Log("box colaider size");
-        Debug.Log("Position x :" + boxCollaiderSize.x);
-        Debug.Log("Position y :" + boxCollaiderSize.y);
-        Debug.Log("Position z :" + boxCollaiderSize.z);
-        if (position.x >= boxCollaiderSize.x)
+        Debug.Log("Position x :" + postion.x);
+        Debug.Log("Position y :" + postion.y);
+        Debug.Log("Position z :" + postion.z);
+        if (postion.x > 490)
         {
-            position.x = terrainPosition.x + 10;
+            postion.x = 10;
         }
-        if (position.z >= boxCollaiderSize.z)
+        if (postion.z > 490)
         {
-            position.z = terrainPosition.z + 10;
+            postion.z = 10;
         }
 
-        if (position.x <= terrainPosition.x + 5)
+        if (postion.x < 10)
         {
-            position.x = boxCollaiderSize.x -1;
+            postion.x = 490;
         }
-        if (position.z <= terrainPosition.z + 5)
+        if (postion.z < 10)
         {
-            position.z = boxCollaiderSize.z - 1;
+            postion.z = 490;
         }
-        
-        position.y = Terrain.activeTerrain.SampleHeight(position);
-        player.transform.position = position;
+
+        postion.y = 20;
+        player.transform.position = postion;
     }
 }
