@@ -8,13 +8,11 @@
 
 #Bring it on!
 
-## The big picture
-
-<img src="http://i.imgur.com/CzGkzgd.png"/>
-
 ## How we solved it
 
- Over the course of the 48 hours hack, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now everyone can enjoy mars!
+![Workflow](http://i.imgur.com/CzGkzgd.png "Workflow")
+
+Over the course of the 48 hours hack, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now everyone can enjoy mars!
 
 The red planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience more educational we added information about mars moons and the sun. The martian weather was created based on the MAAS API that uses REMS weather data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from the real rover.
 
