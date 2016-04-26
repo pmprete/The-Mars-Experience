@@ -49,7 +49,7 @@ We choose **#openworldgeneration** challenge because we want all of you to live 
 
 | About the monkeys |
 |---|
-| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/iSUyPJp.png "Luciano") Luciano</a> is an monkey engineer and a great potographer. Works @ Argentinian Air Force |
+| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/iSUyPJp.png "Luciano") Luciano</a> is a monkey engineer and a great potographer. Works @ Argentinian Air Force |
 | <a href="mailto:pmprete@gmail.com">![Pedro Prete](http://i.imgur.com/iSUyPJp.png "Pedro") Pedro</a> is a monkey developer who's always looking for the next big thing. Works @ Kinetica Solutions |
 | <a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/iSUyPJp.png "Martin") Martin</a> is a code wielding monkey. Works @ Argentinian Air Force |
 
