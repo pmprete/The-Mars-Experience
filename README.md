@@ -8,17 +8,15 @@
 
 #Bring it on!
 
+## The big picture
+
+<img src="http://i.imgur.com/CzGkzgd.png"/>
+
 ## How we solved it
 
  Over the course of the 48 hours hack, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now everyone can enjoy mars!
 
 The red planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience more educational we added information about mars moons and the sun. The martian weather was created based on the MAAS API that uses REMS weather data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from the real rover.
-
-## Look into the Future 
-
-We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about mars in the first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
-
-### Mars is just the beginning, we have a whole universe to explore, and we don't even need to be astronatus.
 
 ##What we used from NASA
 
@@ -39,14 +37,24 @@ We choose **#openworldgeneration** challenge because we want all of you to live 
 
 ## The money shot
 
-<img src="http://i.imgur.com/H8ha4Ys.jpg" />
+<img src="http://i.imgur.com/F4MwGhs.jpg" width="800" />
+
+## Look into the Future 
+
+We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about mars in the first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
+
+### Mars is just the beginning, we have a whole universe to explore, and we don't even need to be astronatus.
 
 ## The Monkeys
 
+| About the monkeys |
+|---|
+| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/iSUyPJp.png "Luciano") Luciano</a> is an monkey engineer and a great potographer. Works @ Argentinian Air Force |
+| <a href="mailto:pmprete@gmail.com">![Pedro Prete](http://i.imgur.com/iSUyPJp.png "Pedro") Pedro</a> is a monkey developer who's always looking for the next big thing. Works @ Kinetica Solutions |
+| <a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/iSUyPJp.png "Martin") Martin</a> is a code wielding monkey. Works @ Argentinian Air Force |
 
-<a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/iSUyPJp.png "Luciano") Luciano</a><br/>
-<a href="mailto:pmprete@gmail.com">![Pedro Prete](http://i.imgur.com/iSUyPJp.png "Pedro") Pedro</a><br/>
-<a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/iSUyPJp.png "Martin") Martin</a>
+
+
 
 
 
