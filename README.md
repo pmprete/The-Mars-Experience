@@ -12,13 +12,19 @@
 
 #Bring it on!
 
-## How we solved it
+## The idea
 
-![Workflow](http://i.imgur.com/CzGkzgd.png "Workflow")
+![Workflow](http://i.imgur.com/TWVXP8Z.png "Workflow")
+
+## How we solved it
 
 Over the course of the 48-hour challenge, we created an immersive experience using Google Cardboard and Unity3D to recreate Mars in virtual reality enviroment. Now **everyone can enjoy Mars**! [*](http://i.imgur.com/BT9tNyH.jpg)
 
 The Virtual Red Planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience educational we added information about the Moons of Mars and the Sun. The martian weather was created based on the data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from [the real rover](http://i.imgur.com/SF302fs.jpg).
+
+## Technical aspects
+
+...
 
 ##What we used from NASA
 
