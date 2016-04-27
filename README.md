@@ -2,7 +2,7 @@
 
 <img src="http://i.imgur.com/1d71AMV.png" />
 
-## Challenge Description ![NASA Space Apps Challenge 2016](http://i.imgur.com/0xwKStM.png)
+## Challenge description ![NASA Space Apps Challenge 2016](http://i.imgur.com/0xwKStM.png)
 
 > ####Open World Generation using NASA Mars and Vesta Data
 
@@ -42,7 +42,7 @@ The Virtual Red Planet was constructed using the terrain and map information ext
 
 <img src="http://i.imgur.com/F4MwGhs.jpg" width="800" />
 
-## Look into the Future 
+## Look into the future 
 
 We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about Mars in first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
 
@@ -50,7 +50,7 @@ We choose **#openworldgeneration** challenge because we want all of you to live 
 
 ___
 
-## The Monkeys
+## The monkeys
 
 |   |
 |---|
