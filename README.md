@@ -12,7 +12,7 @@
 
 ![Workflow](http://i.imgur.com/CzGkzgd.png "Workflow")
 
-Over the course of the 48 hours hack, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now everyone can enjoy mars!
+Over the course of the 48 hours hack, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now **everyone can enjoy mars**!
 
 The red planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience more educational we added information about mars moons and the sun. The martian weather was created based on the MAAS API that uses REMS weather data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from the real rover.
 
@@ -20,7 +20,7 @@ The red planet was constructed using the terrain and map information extracted f
 
 - [Mars Trek API](https://api.nasa.gov/mars-wmts/catalog/) - MAPS!
 - [Jet Propulsion Laboratory](http://jpl.nasa.gov/) - [Maps](http://maps.jpl.nasa.gov/) and [Curiosity JSON feed](http://mars.jpl.nasa.gov/msl-raw-images/image/image_manifest.json)
-- [Mars Global Surveyor - MOLA MEGDRs](http://pds-geosciences.wustl.edu/missions/mgs/megdr.html) - Heightmap/DEM!
+- [Mars Global Surveyor - MOLA MEGDRs](http://pds-geosciences.wustl.edu/missions/mgs/megdr.html) - Heightmap/DEM for terrain references
 - [Rover Environmental Monitoring Station - Centro de Astrobiologia (CSIC-INTA)](http://marsweather.ingenology.com/) - Mars Weather!
 - [SoundCloud NASA](https://soundcloud.com/nasa) - Sounds!
 - [NASA Solar System Exploration](https://solarsystem.nasa.gov/) - Planets info
@@ -32,6 +32,7 @@ The red planet was constructed using the terrain and map information extracted f
 - [Google Cardboard](https://www.google.com/get/cardboard/) - VR interface
 - [Celestia Motherlode](http://www.celestiamotherlode.net/catalog/marsmoons.php) - 3D Models
 - [JHT's Planetary Pixel](http://planetpixelemporium.com/mars.html) - Textures
+- [TrinusVR](http://trinusvr.com/) - Connectivity (PC <-> Phone)
 
 ## The money shot
 
