@@ -16,9 +16,9 @@
 
 ![Workflow](http://i.imgur.com/CzGkzgd.png "Workflow")
 
-Over the course of the 48-hour challenge, we created an immersive experience using Google Cardboard and Unity3D to recreate mars in virtual reallity enviroment. Now **everyone can enjoy Mars**! [*](http://i.imgur.com/BT9tNyH.jpg)
+Over the course of the 48-hour challenge, we created an immersive experience using Google Cardboard and Unity3D to recreate Mars in virtual reality enviroment. Now **everyone can enjoy Mars**! [*](http://i.imgur.com/BT9tNyH.jpg)
 
-The Red Planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience more educational we added information about the Moons of Mars and the Sun. The martian weather was created based on the data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from [the real rover](http://i.imgur.com/SF302fs.jpg).
+The Virtual Red Planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience educational we added information about the Moons of Mars and the Sun. The martian weather was created based on the data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from [the real rover](http://i.imgur.com/SF302fs.jpg).
 
 ##What we used from NASA
 
@@ -32,7 +32,7 @@ The Red Planet was constructed using the terrain and map information extracted f
 
 ##Other resources
 
-- [Unity](https://unity3d.com/) - 3D Engine
+- [Unity3D](https://unity3d.com/) - 3D Engine
 - [Google Cardboard](https://www.google.com/get/cardboard/) - VR interface
 - [Celestia Motherlode](http://www.celestiamotherlode.net/catalog/marsmoons.php) - 3D Models
 - [JHT's Planetary Pixel](http://planetpixelemporium.com/mars.html) - Additional textures
@@ -44,7 +44,7 @@ The Red Planet was constructed using the terrain and map information extracted f
 
 ## Look into the Future 
 
-We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about mars in the first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
+We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about Mars in first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
 
 ### Mars is just the beginning, we have a whole universe to explore, and we don't even need to be astronauts.
 
@@ -54,7 +54,7 @@ ___
 
 |   |
 |---|
-| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/Sowv9wH.png "Luciano") Luciano Righetti</a> is a monkey engineer and a great potographer. Works @ Argentinian Air Force |
+| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/Sowv9wH.png "Luciano") Luciano Righetti</a> is a monkey engineer and photographer. Works @ Argentinian Air Force |
 | <a href="mailto:pmprete@gmail.com">![Pedro Prete](http://i.imgur.com/Sowv9wH.png "Pedro") Pedro Prete</a> is a monkey developer who's always looking for the next big thing. Works @ Kinetica Solutions |
 | <a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/Sowv9wH.png "Martin") Martin Prete</a> is a code wielding monkey. Works @ Argentinian Air Force |
 |   |
