@@ -54,7 +54,7 @@ ___
 
 |   |
 |---|
-| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/Sowv9wH.png "Luciano") Luciano Righetti</a> is a monkey engineer and photographer. Works @ Argentinian Air Force |
+| <a href="mailto:lucianorighetti@gmail.com">![Luciano Righetti](http://i.imgur.com/Sowv9wH.png "Luciano") Luciano Righetti</a> is a monkey engineer and photographer. Works @ Fuerza Aérea Argentina |
 | <a href="mailto:pmprete@gmail.com">![Pedro Prete](http://i.imgur.com/Sowv9wH.png "Pedro") Pedro Prete</a> is a monkey developer who's always looking for the next big thing. Works @ Kinetica Solutions |
-| <a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/Sowv9wH.png "Martin") Martin Prete</a> is a code wielding monkey. Works @ Argentinian Air Force |
+| <a href="mailto:martinprete@gmail.com">![Martin Prete](http://i.imgur.com/Sowv9wH.png "Martin") Martin Prete</a> is a code wielding monkey. Works @ Fuerza Aérea Argentina |
 |   |
