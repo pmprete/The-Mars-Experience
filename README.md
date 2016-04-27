@@ -42,7 +42,7 @@ The red planet was constructed using the terrain and map information extracted f
 
 We choose **#openworldgeneration** challenge because we want all of you to live ***THE MARS EXPERIENCE***. Travel further than you ever have without leaving your room. Experience and learn about mars in the first person without difficulty, hazard or any inconvenience. ~~[In your face Matt Damon!](http://i.imgur.com/4zw8u9M.jpg)~~
 
-### Mars is just the beginning, we have a whole universe to explore, and we don't even need to be astronatus.
+### Mars is just the beginning, we have a whole universe to explore, and we don't even need to be astronauts.
 
 ___
 
