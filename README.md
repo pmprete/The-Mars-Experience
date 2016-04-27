@@ -4,6 +4,10 @@
 
 ## Challenge Description ![NASA Space Apps Challenge 2016](http://i.imgur.com/0xwKStM.png)
 
+> ####Open World Generation using NASA Mars and Vesta Data
+
+> **#openworldgeneration**
+
 > Create a custom world map generator module using a gaming framework or engine of your choice that leverages altimeter, terrain and imagery data to render realistic worlds.  This will involve the use of a World Map Tile Service client to leverage over 1 TB of Mars and Vesta data for use in world generation.
 
 #Bring it on!
