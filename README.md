@@ -31,7 +31,7 @@ The red planet was constructed using the terrain and map information extracted f
 - [Unity](https://unity3d.com/) - 3D Engine
 - [Google Cardboard](https://www.google.com/get/cardboard/) - VR interface
 - [Celestia Motherlode](http://www.celestiamotherlode.net/catalog/marsmoons.php) - 3D Models
-- [JHT's Planetary Pixel](http://planetpixelemporium.com/mars.html) - Textures
+- [JHT's Planetary Pixel](http://planetpixelemporium.com/mars.html) - Additional textures
 - [TrinusVR](http://trinusvr.com/) - Connectivity (PC <-> Phone)
 
 ## The money shot
