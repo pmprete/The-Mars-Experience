@@ -2,7 +2,7 @@
 
 <img src="http://i.imgur.com/1d71AMV.png" />
 
-## Challenge description ![NASA Space Apps Challenge 2016](http://i.imgur.com/0xwKStM.png)
+## [Challenge description](https://2016.spaceappschallenge.org/challenges/solar-system/open-world-generation-using-nasa-mars-and-vesta-data) ![NASA Space Apps Challenge 2016](http://i.imgur.com/0xwKStM.png)
 
 > ####Open World Generation using NASA Mars and Vesta Data
 
@@ -22,20 +22,16 @@ Over the course of the 48-hour challenge, we created an immersive experience usi
 
 The Virtual Red Planet was constructed using the terrain and map information extracted from Mars Trek WMTS Layer Service and JPT Maps. To make the experience educational we added information about the Moons of Mars and the Sun. The martian weather was created based on the data transmitted by the Curiosity Rover on Mars! We also added the Curiosity Rover as a 3D object to show info about it. You can even see the last image taken from [the real rover](http://i.imgur.com/SF302fs.jpg).
 
-## Run the Demo
- - Download and Install [trinus vr](http://trinusvr.com/) in your pc
- - Download and Install in your smart phone [trinus vt lite](https://play.google.com/store/apps/details?id=com.loxai.trinus.test&hl=es_419) 
- - Make sure you cellphone and computer are **in the same wifi**
- - Checkout the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
- - Open trinus in your pc and [start it](http://prntscr.com/axpb1u)
- - Run the **MarsExperience.exe**  from the Demo folder
- - Make sure you [check windowed](http://prntscr.com/axpa78) and **hit Play!**
- - On your phone open trinus, start it and put it in your [google cardboard](https://www.google.com/get/cardboard/)
- - **Enjoy the magic!**
-
 ## Technical aspects
 
-...
+#### Accessing the WMTS Layer services
+
+![Scripts Explained](http://i.imgur.com/BEdy1Qt.png)
+This one is simple, but when you can not count on the internet service it might get a little tricky. So, we decided to make some python scripts to [get the tiles from the service](https://i.imgflip.com/139xde.jpg) and store them in our PC. With all the tiles in our file system, we then used [Image Magick](https://www.imagemagick.org/) to merge them all together to create our realistic texture. Script and textures available in **Scripts folder**
+
+#### Running the app in crappy phones
+
+Not all of us have [good phones](http://i.imgur.com/KGNwFN9.jpg). In order to make the app more accesible to everyone, we used the PC as main processor and then stream the contents to the phone. This allowed us to get a much better quality in our 3D models and terrain. The only setback is that the PC and the phone need to be on the same WiFi network.
 
 ##What we used from NASA
 
@@ -55,9 +51,25 @@ The Virtual Red Planet was constructed using the terrain and map information ext
 - [JHT's Planetary Pixel](http://planetpixelemporium.com/mars.html) - Additional textures
 - [TrinusVR](http://trinusvr.com/) - Connectivity (PC <-> Phone)
 
+
+## Try it now on PC
+ - 'git-checkout' the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
+ - Run **MarsExperience.exe** and enjoy!
+
+## Try it with VR
+ - 'git-checkout' the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
+ - Download and install TrinusVR [on your PC](http://trinusvr.com/) and [your smart phone](https://play.google.com/store/apps/details?id=com.loxai.trinus.test&hl=es_419). _(both must be **on the same WiFi network**)_
+ - Start Trinus on your PC.
+ - Run the recently checked out **MarsExperience.exe**
+ - Make sure you to [x] Windowed and **hit Play!**
+ - On your phone open trinus, start it and put it in your [favorite VR kit](https://www.google.com/get/cardboard/)
+ - **Enjoy the magic!**
+
 ## The money shot
 
 <img src="http://i.imgur.com/F4MwGhs.jpg" width="800" />
+
+Want to see more? [Gallery #1](http://imgur.com/a/euFz9) - [Gallery #2](http://imgur.com/a/B9t2J)
 
 ## Look into the future 
 
