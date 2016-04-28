@@ -24,9 +24,18 @@ The Virtual Red Planet was constructed using the terrain and map information ext
 
 ## Technical aspects
 
+#### First time using Unity3D
+
+![Virgin monkeys](http://i.imgur.com/tYUHLKh.jpg)
+
+Great tool and very straightforward, **that we have never use this before**. Getting it up and running wasn't much of a hazzle. However we'd like to point out some cool things we did:
+- Create a script to make the world endless. Once at the edge of the terrain, the player gets teleported to the opposite edge to start again but on the other side.
+- Wind on Mars! Particle, particles, particles! In your face to give you the impression [The Martian wants you to have](http://i.imgur.com/YPsCcZh.webm). (thou [this myth is busted](http://www.nasa.gov/feature/goddard/the-fact-and-fiction-of-martian-dust-storms))
+
+
 #### Accessing the WMTS Layer services
 
-![Scripts Explained](http://i.imgur.com/BEdy1Qt.png)
+![Scripts Explained](http://i.imgur.com/2oiu5wt.png)
 This one is simple, but when you can't count on the internet service it might get a little tricky. So, we decided to make some Python scripts to [get the tiles from the service](https://i.imgflip.com/139xde.jpg) and store them in our PC. With all the tiles in our file system, we then used [Image Magick](https://www.imagemagick.org/) to merge them all together to create our realistic texture. Script and textures are available in **Scripts folder**
 
 #### Running the app in crappy phones
