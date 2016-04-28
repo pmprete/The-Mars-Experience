@@ -53,16 +53,16 @@ Not all of us have [good phones](http://i.imgur.com/KGNwFN9.jpg). In order to ma
 
 
 ## Try it now on PC
- - 'git-checkout' the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
+ - `git-checkout` the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
  - Run **MarsExperience.exe** and enjoy!
 
 ## Try it with VR
- - 'git-checkout' the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
+ - `git-checkout` the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
  - Download and install TrinusVR [on your PC](http://trinusvr.com/) and [your smart phone](https://play.google.com/store/apps/details?id=com.loxai.trinus.test&hl=es_419). _(both must be **on the same WiFi network**)_
  - Start Trinus on your PC.
  - Run the recently checked out **MarsExperience.exe**
- - Make sure you to [x] Windowed and **hit Play!**
- - On your phone open trinus, start it and put it in your [favorite VR kit](https://www.google.com/get/cardboard/)
+ - Make sure to check `[x] Windowed` and **hit Play!**
+ - On your phone open Trinus, then place it in your [favorite VR kit](https://www.google.com/get/cardboard/)
  - **Enjoy the magic!**
 
 ## The money shot
