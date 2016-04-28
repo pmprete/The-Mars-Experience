@@ -69,7 +69,7 @@ Not all of us have [good phones](http://i.imgur.com/KGNwFN9.jpg). In order to ma
 
 <img src="http://i.imgur.com/F4MwGhs.jpg" width="800" />
 
-Want to see more? [Gallery #1](http://imgur.com/a/euFz9) - [Gallery #2](http://imgur.com/a/B9t2J)
+##### Want to see more? [Gallery #1](http://imgur.com/a/euFz9) - [Gallery #2](http://imgur.com/a/B9t2J)
 
 ## Look into the future 
 
