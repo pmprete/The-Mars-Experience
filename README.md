@@ -26,7 +26,7 @@ The Virtual Red Planet was constructed using the terrain and map information ext
  - Download and Install [trinus vr](http://trinusvr.com/) in your pc
  - Download and Install in your smart phone [trinus vt lite](https://play.google.com/store/apps/details?id=com.loxai.trinus.test&hl=es_419) 
  - Make sure you cellphone and computer are **in the same wifi**
- - Checkout the **Demo folder* or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
+ - Checkout the **Demo folder** or download it from [our drive](https://drive.google.com/drive/u/0/folders/0B6HqfNqiajKVRVkzN1Y0SFhISXc)
  - Open trinus in your pc and [start it](http://prntscr.com/axpb1u)
  - Run the **MarsExperience.exe**  from the Demo folder
  - Make sure you [check windowed](http://prntscr.com/axpa78) and **hit Play!**
