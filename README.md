@@ -28,7 +28,7 @@ The Virtual Red Planet was constructed using the terrain and map information ext
 
 ![Virgin monkeys](http://i.imgur.com/tYUHLKh.jpg)
 
-Great tool and very straightforward, **that we have never use this before**. Getting it up and running wasn't much of a hazzle. However we'd like to point out some cool things we did:
+Great tool and very straightforward, **that we have never use before**. Getting it up and running wasn't much of a hazzle. However we'd like to point out some cool things we did:
 - Create a script to make the world endless. Once at the edge of the terrain, the player gets teleported to the opposite edge to start again but on the other side.
 - Wind on Mars! Particle, particles, particles! In your face to give you the impression [The Martian wants you to have](http://i.imgur.com/YPsCcZh.webm). (thou [this myth is busted](http://www.nasa.gov/feature/goddard/the-fact-and-fiction-of-martian-dust-storms))
 
